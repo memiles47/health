@@ -10,6 +10,10 @@ namespace health
     {
         static void Main(string[] args)
         {
+            //Initialize variables
+            var health = 50;
+            var healthPotion = health;
+
         }
     }
 }
