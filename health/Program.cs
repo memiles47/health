@@ -8,7 +8,7 @@ namespace health
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             //Create new random class
             var rnd = new Random();
